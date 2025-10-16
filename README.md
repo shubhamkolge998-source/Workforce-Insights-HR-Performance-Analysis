@@ -1,4 +1,4 @@
-# 🧠 HR Analytics Dashboard
+# 🧠 HR Analytics Dashboard - Tablue
 
 This project presents a comprehensive **HR Analytics Dashboard** built using **Power BI**, designed to uncover key insights into employee attrition, demographics, job satisfaction, and workforce trends. The dashboard enables HR professionals and decision-makers to make data-driven strategies for employee retention and engagement.
 
